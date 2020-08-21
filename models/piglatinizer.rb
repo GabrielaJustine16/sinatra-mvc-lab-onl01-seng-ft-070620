@@ -14,3 +14,4 @@ class PigLatinizer
             end 
         end.join(" ")
     end 
+  end 
